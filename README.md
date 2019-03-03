@@ -10,3 +10,11 @@ Hosting on [firebase](https://reactburger-d37b5.firebaseapp.com/).
 - Persistent State
 - Client State
   BurgerBuilder: ingredients, totalPrice
+
+## Update
+
+## TODO
+- [] test
+- [] CI
+- [] rewrite with react hook
+- [] build server
